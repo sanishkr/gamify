@@ -1,0 +1,49 @@
+html {
+	height: 100%;
+	font-size: 100%;
+}
+body {
+	min-height: 100%;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	background: #fff ; 
+ }
+
+
+/* Header Style */
+.codrops-top {
+	line-height: 44px;
+	font-size: 11px;
+	background: #fff;
+	background: rgba( 000, 000, 000, 1.0);
+	text-transform: uppercase;
+	z-index: 9999;
+	position: relative;
+	box-shadow: 1px 0px 2px rgba(0,0,0,0.2);
+}
+
+.codrops-top a {
+	padding: 0px 10px;
+	letter-spacing: 1px;
+	color: #888;
+	display: inline-block;
+	text-decoration: none;
+}
+
+.codrops-top a:hover {
+	background: rgba(255,255,255,0.8);
+	color: #000;
+}
+
+.codrops-top span.right {
+	float: right;
+}
+a{
+font-family:Tahoma;
+color:#0066CC;
+text-decoration:none;
+}
+a:hover{
+color:#0099FF;
+text-decoration:underline;
+}

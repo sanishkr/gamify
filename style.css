@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{ background:#CCC;}
+.lab
+{
+	float:left;
+	width:20%;
+}
+.middle
+{
+	margin: auto;
+	height: 180px;
+	width: 200px;
+	border: 2px solid #3b5997;
+	background-color: #FFF;
+	margin-top:00px;
+	
+
+}
+.midd
+{
+	padding-top:10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	text-transform: capitalize;
+	color: #000;
+	background-color: #FFF;
+	
+}
+.log{
+	background-color: #3b5997;
+}
+.inpu{
+    float:right;
+	height: 20px;
+	width: 100px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+	
+}
+.but{
+	background-color: #3b5997;
+	white-space:nowrap;
+	color: #FFF;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	cursor: pointer;
+	-webkit-rtl-ordering: logical;
+	-webkit-user-select: text;
+	letter-spacing: normal;
+	word-spacing: normal;
+	text-transform: none;
+	text-indent: 0px;
+	text-shadow: none;
+	display: inline-block;
+	-webkit-align-items: flex-start;
+	text-align: center;
+	box-sizing: border-box;
+	border: solid 1px #333;
+}
+.flt{
+	float: left;
+	margin-left: 10px;
+}
